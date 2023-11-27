@@ -1,6 +1,8 @@
 const PrimaryBtn = () => {
   return (
-    <button>PrimaryBtn</button>
+    <>
+      <button>PrimaryBtn</button>
+    </>
   )
 }
 
